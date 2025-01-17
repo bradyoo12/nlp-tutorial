@@ -1,7 +1,9 @@
 # Relevant tools, techniques and frameworks
 - Github Desktop
-- Natural Language Processing
 - Jupyter notebook
+- Natural Language Processing
+- Python
+
 
 # What I learned
 - How to tokenize, stem and lemmatize
